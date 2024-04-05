@@ -1,3 +1,4 @@
+-- Code action
 vim.keymap.set(
   "n",
   "<leader>a",
